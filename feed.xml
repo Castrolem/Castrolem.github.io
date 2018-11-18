@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Luis Castro</title>
-    <description>I'm a Full-Stack Developer and computer engineer currently traveling the world. In my work, I combine 3 basic principles User Experience, Beauty and Purpose. I have 5+ years doing Software Development and have completed more than 17 projects (managed 4 of them) in 2 continents. I make webapps that work fast, are easy to use, persuasive, relevant to the customer and fit in the business environment.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Nov 2016 11:41:31 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Nov 2016 11:41:31 +0100</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
-    
-      <item>
-        <title>Spending your time correctly</title>
-        <description>&lt;p&gt;Over the past 6 years of practicing different types of programming, I have worked in different environments, traditional and non traditional, with people that are organized and sometimes not so much, but in the last 2+ years being remote and also part of a big team with great people that love to pair-program, has made me realize that there’s one particular style that just rocks and that’s pair-programming, let me tell you why you will think the same.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://luiscastro.co/feed.xml" rel="self" type="application/atom+xml" /><link href="http://luiscastro.co/" rel="alternate" type="text/html" /><updated>2018-11-18T11:15:27+01:00</updated><id>http://luiscastro.co/feed.xml</id><title type="html">Luis Castro • Full Stack Developer</title><subtitle>I'm a Full Stack Developer that makes products that work fast, are easy to use, persuasive, relevant to the customer and fit in the business environment. Currently working in Barcelona, Spain.</subtitle><entry><title type="html">Spending your time correctly</title><link href="http://luiscastro.co/2016/03/24/time-well-spent.html" rel="alternate" type="text/html" title="Spending your time correctly" /><published>2016-03-24T19:15:16+01:00</published><updated>2016-03-24T19:15:16+01:00</updated><id>http://luiscastro.co/2016/03/24/time-well-spent</id><content type="html" xml:base="http://luiscastro.co/2016/03/24/time-well-spent.html">&lt;p&gt;Over the past 6 years of practicing different types of programming, I have worked in different environments, traditional and non traditional, with people that are organized and sometimes not so much, but in the last 2+ years being remote and also part of a big team with great people that love to pair-program, has made me realize that there’s one particular style that just rocks and that’s pair-programming, let me tell you why you will think the same.
 What is it?&lt;/p&gt;
 
 &lt;p&gt;Pair-programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.&lt;/p&gt;
@@ -62,28 +49,7 @@ And that’s why we are encouraged in our team to prioritize pairs that have exp
 
 &lt;p&gt;I’ve written some of my best code when pairing because most of it was written with two people’s hands on a keyboard together.&lt;/p&gt;
 
-&lt;p&gt;Which is why I encourage you to apply them or to ask your management team to consider it. You would be amazed on how much your productivity will be increased by never hesitating when to ask for help or by stepping up for others.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 Mar 2016 19:15:16 +0100</pubDate>
-        <link>http://localhost:4000/2016/03/24/time-well-spent.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/03/24/time-well-spent.html</guid>
-        
-        <category>Development,</category>
-        
-        <category>agile,</category>
-        
-        <category>pair-programming,</category>
-        
-        <category>pair</category>
-        
-        <category>programming</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The path to a living Style-guide for RealScout</title>
-        <description>&lt;p&gt;A not so long time ago in a repo far far into the cloud, we started by creating a complex application with unstructured CSS. As you might imagine, it got really cumbersome for everyone on the team to work with.&lt;/p&gt;
+&lt;p&gt;Which is why I encourage you to apply them or to ask your management team to consider it. You would be amazed on how much your productivity will be increased by never hesitating when to ask for help or by stepping up for others.&lt;/p&gt;</content><author><name>Luis Castro</name></author><category term="Development," /><category term="agile," /><category term="pair-programming," /><category term="pair" /><category term="programming" /><summary type="html">Over the past 6 years of practicing different types of programming, I have worked in different environments, traditional and non traditional, with people that are organized and sometimes not so much, but in the last 2+ years being remote and also part of a big team with great people that love to pair-program, has made me realize that there’s one particular style that just rocks and that’s pair-programming, let me tell you why you will think the same. What is it?</summary></entry><entry><title type="html">The path to a living Style-guide for RealScout</title><link href="http://luiscastro.co/2016/01/27/the-path-to-a-living-style-guide.html" rel="alternate" type="text/html" title="The path to a living Style-guide for RealScout" /><published>2016-01-27T18:29:12+01:00</published><updated>2016-01-27T18:29:12+01:00</updated><id>http://luiscastro.co/2016/01/27/the-path-to-a-living-style-guide</id><content type="html" xml:base="http://luiscastro.co/2016/01/27/the-path-to-a-living-style-guide.html">&lt;p&gt;A not so long time ago in a repo far far into the cloud, we started by creating a complex application with unstructured CSS. As you might imagine, it got really cumbersome for everyone on the team to work with.&lt;/p&gt;
 
 &lt;p&gt;Engineers were writing more CSS than HTML - designers had no guide posts when creating new layouts and components.&lt;/p&gt;
 
@@ -137,12 +103,14 @@ And that’s why we are encouraged in our team to prioritize pairs that have exp
 &lt;h3 id=&quot;settings&quot;&gt;Settings&lt;/h3&gt;
 &lt;p&gt;With all the typography work done, we created our settings folder, the chosen one to hold all our variables and constants of our site.&lt;/p&gt;
 
-&lt;p&gt;Our variables are divided by
-- Typography: The baseline of our styles is set to a &lt;code class=&quot;highlighter-rouge&quot;&gt;font-size&lt;/code&gt; in the document of &lt;code class=&quot;highlighter-rouge&quot;&gt;16px&lt;/code&gt;, with a &lt;code class=&quot;highlighter-rouge&quot;&gt;$primary—font-family: “Helvetica Neue”&lt;/code&gt; and a &lt;code class=&quot;highlighter-rouge&quot;&gt;$secondary—font-family: “Montserrat”&lt;/code&gt; (both with all the fallbacks necessary to avoid &lt;a href=&quot;http://www.paulirish.com/2009/fighting-the-font-face-fout/&quot;&gt;FOUT&lt;/a&gt;).
-- Colors: The file that every designer will love to see first, contains all the HEX codes with correspondent names. We suggest to add a unique name to your HEX codes and then create variables that will say the type of color that it is. For example: &lt;code class=&quot;highlighter-rouge&quot;&gt;$blue-da-france: #0CAAF4;&lt;/code&gt; it’s our main tone of blue and the base color for most of the things in the Agents application, so we have a variable that’s easier to read and correspond the role of the color &lt;code class=&quot;highlighter-rouge&quot;&gt;$base: $blue-da-france;&lt;/code&gt;. Say you want to move from blue to red, then you only need to change this, &lt;em&gt;voilà&lt;/em&gt;.
-- Sizes: Holds all the standard measures for margins and paddings that we can use in our application, between standard sizes to use when creating new components to the setup of some global components like our &lt;code class=&quot;highlighter-rouge&quot;&gt;box&lt;/code&gt; style.
-- Index: This file it’s one of the most interesting ones of our settings, it holds a SASS array of strings, each one it’s a name for a component or object that we know will have a &lt;code class=&quot;highlighter-rouge&quot;&gt;position&lt;/code&gt; that’s not static in our stylesheet, depending on the position of the string in the array, it’s the &lt;code class=&quot;highlighter-rouge&quot;&gt;z-index&lt;/code&gt; that we’ll get compiled into the element, by doing this we avoided the terrifying situation of not knowing a bigger number for an element that needs to be in front of our fixed navigation component.
-- Box model: have you ever worked without making all your elements have &lt;code class=&quot;highlighter-rouge&quot;&gt;box-sizing: border-box;&lt;/code&gt;. We have, in this file we set a couple helpers to define different box-sizing ways for our elements.&lt;/p&gt;
+&lt;p&gt;Our variables are divided by&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Typography: The baseline of our styles is set to a &lt;code class=&quot;highlighter-rouge&quot;&gt;font-size&lt;/code&gt; in the document of &lt;code class=&quot;highlighter-rouge&quot;&gt;16px&lt;/code&gt;, with a &lt;code class=&quot;highlighter-rouge&quot;&gt;$primary—font-family: “Helvetica Neue”&lt;/code&gt; and a &lt;code class=&quot;highlighter-rouge&quot;&gt;$secondary—font-family: “Montserrat”&lt;/code&gt; (both with all the fallbacks necessary to avoid &lt;a href=&quot;http://www.paulirish.com/2009/fighting-the-font-face-fout/&quot;&gt;FOUT&lt;/a&gt;).&lt;/li&gt;
+  &lt;li&gt;Colors: The file that every designer will love to see first, contains all the HEX codes with correspondent names. We suggest to add a unique name to your HEX codes and then create variables that will say the type of color that it is. For example: &lt;code class=&quot;highlighter-rouge&quot;&gt;$blue-da-france: #0CAAF4;&lt;/code&gt; it’s our main tone of blue and the base color for most of the things in the Agents application, so we have a variable that’s easier to read and correspond the role of the color &lt;code class=&quot;highlighter-rouge&quot;&gt;$base: $blue-da-france;&lt;/code&gt;. Say you want to move from blue to red, then you only need to change this, &lt;em&gt;voilà&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Sizes: Holds all the standard measures for margins and paddings that we can use in our application, between standard sizes to use when creating new components to the setup of some global components like our &lt;code class=&quot;highlighter-rouge&quot;&gt;box&lt;/code&gt; style.&lt;/li&gt;
+  &lt;li&gt;Index: This file it’s one of the most interesting ones of our settings, it holds a SASS array of strings, each one it’s a name for a component or object that we know will have a &lt;code class=&quot;highlighter-rouge&quot;&gt;position&lt;/code&gt; that’s not static in our stylesheet, depending on the position of the string in the array, it’s the &lt;code class=&quot;highlighter-rouge&quot;&gt;z-index&lt;/code&gt; that we’ll get compiled into the element, by doing this we avoided the terrifying situation of not knowing a bigger number for an element that needs to be in front of our fixed navigation component.&lt;/li&gt;
+  &lt;li&gt;Box model: have you ever worked without making all your elements have &lt;code class=&quot;highlighter-rouge&quot;&gt;box-sizing: border-box;&lt;/code&gt;. We have, in this file we set a couple helpers to define different box-sizing ways for our elements.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;objects&quot;&gt;Objects&lt;/h3&gt;
 &lt;p&gt;Each of the small snippets of code that are re-usable and independent of where they will be put. For example &lt;code class=&quot;highlighter-rouge&quot;&gt;buttons&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;inputs&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;links&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;iconography&lt;/code&gt;, etc.&lt;/p&gt;
@@ -230,20 +198,7 @@ And that’s why we are encouraged in our team to prioritize pairs that have exp
   &lt;li&gt;Product receives more finished features that need less polish and has less bugs.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;That’s the complete flow to live by of both teams and here at RealScout we’re sure that our application will grow and become better for our user base with a streamlined and consistent UI thanks to it.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 Jan 2016 18:29:12 +0100</pubDate>
-        <link>http://localhost:4000/2016/01/27/the-path-to-a-living-style-guide.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/01/27/the-path-to-a-living-style-guide.html</guid>
-        
-        <category>RealScout</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The traveler dev</title>
-        <description>&lt;p&gt;Luck, it’s a word that sometimes defines a lot in peoples life, I have been very lucky to have the opportunity of do what I love, which is create different web applications from anywhere in the world. All that I need is my laptop, an internet connection faster than 4MBps and lots of beverages/food and for that I’m grateful.&lt;/p&gt;
+&lt;p&gt;That’s the complete flow to live by of both teams and here at RealScout we’re sure that our application will grow and become better for our user base with a streamlined and consistent UI thanks to it.&lt;/p&gt;</content><author><name>Luis Castro</name></author><category term="RealScout" /><summary type="html">A not so long time ago in a repo far far into the cloud, we started by creating a complex application with unstructured CSS. As you might imagine, it got really cumbersome for everyone on the team to work with.</summary></entry><entry><title type="html">The traveler dev</title><link href="http://luiscastro.co/2015/12/19/the-traveler-dev.html" rel="alternate" type="text/html" title="The traveler dev" /><published>2015-12-19T14:23:00+01:00</published><updated>2015-12-19T14:23:00+01:00</updated><id>http://luiscastro.co/2015/12/19/the-traveler-dev</id><content type="html" xml:base="http://luiscastro.co/2015/12/19/the-traveler-dev.html">&lt;p&gt;Luck, it’s a word that sometimes defines a lot in peoples life, I have been very lucky to have the opportunity of do what I love, which is create different web applications from anywhere in the world. All that I need is my laptop, an internet connection faster than 4MBps and lots of beverages/food and for that I’m grateful.&lt;/p&gt;
 
 &lt;p&gt;It all started in Venezuela while I founded with a friend a web design agency, we were both working at the beginning from our houses since we didn’t have a formal office, but we did growth our online presence by a big margin just doing key projects for people that we knew at the time.&lt;/p&gt;
 
@@ -272,26 +227,7 @@ And that’s why we are encouraged in our team to prioritize pairs that have exp
 
 &lt;p&gt;The places I have gone while working are: Aruba, Saint Marteen, Trinidad &amp;amp; Tobago, Curacao, USA (Florida, Las vegas, Houston, Silicon Valley), Spain, Italy and France.&lt;/p&gt;
 
-&lt;p&gt;My take away in this last 2 years of working from different places is live to meet new experiences.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 Dec 2015 14:23:00 +0100</pubDate>
-        <link>http://localhost:4000/2015/12/19/the-traveler-dev.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/19/the-traveler-dev.html</guid>
-        
-        <category>Development,</category>
-        
-        <category>traveler,</category>
-        
-        <category>Working</category>
-        
-        <category>remotely</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>My experiences with Atom Editor</title>
-        <description>&lt;h2 id=&quot;the-best-front-end-editor-you-will-find-right-now&quot;&gt;The best Front-end Editor you will find right now&lt;/h2&gt;
+&lt;p&gt;My take away in this last 2 years of working from different places is live to meet new experiences.&lt;/p&gt;</content><author><name>Luis Castro</name></author><category term="Development," /><category term="traveler," /><category term="Working" /><category term="remotely" /><summary type="html">Luck, it’s a word that sometimes defines a lot in peoples life, I have been very lucky to have the opportunity of do what I love, which is create different web applications from anywhere in the world. All that I need is my laptop, an internet connection faster than 4MBps and lots of beverages/food and for that I’m grateful.</summary></entry><entry><title type="html">My experiences with Atom Editor</title><link href="http://luiscastro.co/2015/03/24/my-experiences-with-atom.html" rel="alternate" type="text/html" title="My experiences with Atom Editor" /><published>2015-03-24T19:15:16+01:00</published><updated>2015-03-24T19:15:16+01:00</updated><id>http://luiscastro.co/2015/03/24/my-experiences-with-atom</id><content type="html" xml:base="http://luiscastro.co/2015/03/24/my-experiences-with-atom.html">&lt;h2 id=&quot;the-best-front-end-editor-you-will-find-right-now&quot;&gt;The best Front-end Editor you will find right now&lt;/h2&gt;
 &lt;p&gt;Not to long ago Sublime Text 2 was the best editor for me, because it had everything I needed and introduced a little bit of features that were a plus to use from time to time, the packages in sublime are great but this editor is failing behind of the fresh competition for one reason, an endless amount of time spent in their 3rd version which has been on beta for 2 years by now.&lt;/p&gt;
 
 &lt;p&gt;It seems like crazy to have a product on beta for so long, and a closed beta in fact. Most of the people doesn’t know what this third version brings to the table, since it looks the same, works the same and performs the same as V2.&lt;/p&gt;
@@ -316,22 +252,4 @@ And that’s why we are encouraged in our team to prioritize pairs that have exp
 &lt;h2 id=&quot;what-could-be-better&quot;&gt;What could be better?&lt;/h2&gt;
 &lt;p&gt;Performance it’s just not there when you add multiple plugins, it really slows down things after just 4-5 and that’s why it won’t be the best editor for me until they fix that, but remember it has lots of people contributing to the repository, so there are lots of features and improvements being done as we speak and this project has the upper hand because of it.&lt;/p&gt;
 
-&lt;p&gt;Overall, this is a great application. With GitHub backing it, I could definitely see it taking off more than what it has. I also see the possibility of an &lt;strong&gt;Atom Marketplace&lt;/strong&gt; in our near future with paid packages, I hope they go this route to get founds for the development of future versions, this way they could get more dedicated people to the project.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Mar 2015 19:15:16 +0100</pubDate>
-        <link>http://localhost:4000/2015/03/24/my-experiences-with-atom.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/03/24/my-experiences-with-atom.html</guid>
-        
-        <category>Development,</category>
-        
-        <category>editors,</category>
-        
-        <category>atom</category>
-        
-        <category>editor</category>
-        
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Overall, this is a great application. With GitHub backing it, I could definitely see it taking off more than what it has. I also see the possibility of an &lt;strong&gt;Atom Marketplace&lt;/strong&gt; in our near future with paid packages, I hope they go this route to get founds for the development of future versions, this way they could get more dedicated people to the project.&lt;/p&gt;</content><author><name>Luis Castro</name></author><category term="Development," /><category term="editors," /><category term="atom" /><category term="editor" /><summary type="html">The best Front-end Editor you will find right now Not to long ago Sublime Text 2 was the best editor for me, because it had everything I needed and introduced a little bit of features that were a plus to use from time to time, the packages in sublime are great but this editor is failing behind of the fresh competition for one reason, an endless amount of time spent in their 3rd version which has been on beta for 2 years by now.</summary></entry></feed>
