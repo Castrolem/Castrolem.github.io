@@ -369,6 +369,7 @@ html {
 body {
   font-family: "Lora", "Minion Pro", Palatino, Georgia, serif;
   color: #333;
+  background: #f8f8f8;
   font-size: 16px;
   line-height: 1.5; }
 
@@ -422,10 +423,9 @@ body {
 
 .page-header {
   padding: 1.5rem 0;
-  background-image: url("/images/header_background.jpg");
-  background-position: 0 0;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #528D76;
+  background-image: repeating-linear-gradient(120deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 1px, transparent 1px, transparent 60px), repeating-linear-gradient(60deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 1px, transparent 1px, transparent 60px), linear-gradient(60deg, rgba(0, 0, 0, 0.1) 25%, transparent 25%, transparent 75%, rgba(0, 0, 0, 0.1) 75%, rgba(0, 0, 0, 0.1)), linear-gradient(120deg, rgba(0, 0, 0, 0.1) 25%, transparent 25%, transparent 75%, rgba(0, 0, 0, 0.1) 75%, rgba(0, 0, 0, 0.1));
+  background-size: 70px 120px;
   margin-bottom: 4rem; }
   .page-header .avatar {
     width: 95px;
@@ -435,7 +435,8 @@ body {
     -moz-border-radius: 100px;
     border-radius: 100px;
     margin: 0 auto;
-    display: block; }
+    display: block;
+    border: 1px solid #528D76; }
   .page-header .header-name {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #fff;
@@ -496,7 +497,13 @@ body {
     display: inline-block;
     margin-left: 5px; }
   .icon-links .icon-link {
-    display: inline-block; }
+    display: inline-flex;
+    height: 4.4rem;
+    width: 4.4rem;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 2rem; }
     .icon-links .icon-link:hover .fab, .icon-links .icon-link:hover .fas {
       -webkit-transition: all 0.2s ease;
       -moz-transition: all 0.2s ease;
@@ -516,20 +523,19 @@ body {
   top: 0;
   font-size: 1.5rem;
   border-radius: 4px;
-  border-bottom: 1px solid rgba(229, 115, 115, 0.5);
-  background: #e57373;
-  color: #fff;
-  box-shadow: 0px 0px 0px rgba(229, 115, 115, 0.1);
+  border-bottom: 1px solid rgba(235, 239, 225, 0.5);
+  background: #ebefe1;
+  color: #111;
+  box-shadow: 0px 0px 0px rgba(235, 239, 225, 0.1);
   transform: translateZ(0);
   transition: all 0.2s ease; }
   .contact-button:hover {
-    top: -10px;
-    box-shadow: 0px 10px 10px rgba(229, 115, 115, 0.2);
-    transform: rotateX(20deg); }
+    box-shadow: 0px 10px 10px rgba(235, 239, 225, 0.2);
+    transform: translate(0, -5px); }
   .contact-button:active {
     top: 0px;
-    box-shadow: 0px 0px 0px rgba(229, 115, 115, 0);
-    background: #14e085; }
+    box-shadow: 0px 0px 0px rgba(235, 239, 225, 0);
+    background: #d1d7c6; }
   .contact-button.not-looking {
     width: 400px; }
 
@@ -570,7 +576,7 @@ body {
   border-top: 1px solid #eee;
   padding-top: 1.5rem;
   text-align: center;
-  margin-bottom: 2rem; }
+  padding-bottom: 2rem; }
   .page-footer .footer-line {
     margin: 0;
     font-size: .775rem;
